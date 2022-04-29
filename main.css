@@ -1,0 +1,50 @@
+body {
+    background-color: sienna;
+    background-image: url('/images/trail.png');
+}
+
+#main {
+    text-align: center;
+    background-color: darksalmon;
+    background-image: url('/images/trail.png');
+    border-radius: 15px;
+    box-shadow: 0px 0px 20px purple;
+}
+
+#header {
+    margin-top: 25px;
+}
+
+#button-array {
+    margin-bottom: 1pc;
+}
+button {
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px purple;
+    font-family: Apple Chancery, cursive;
+}
+
+.text {
+    text-align: center;
+    width: fit-content;
+    margin: auto;
+    background-color: rgb(238, 132, 120);
+    border-radius: 15px;
+    box-shadow: 0px 0px 5px purple;
+    font-family: Apple Chancery, cursive;
+}
+h1, h2 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+img {
+    max-width: 70vw;
+    max-height: 50vh;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px purple;
+  }
+
+  #fact-body {
+      margin-bottom: 10px;
+  }
